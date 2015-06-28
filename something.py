@@ -9,3 +9,5 @@ def weird_name(weirdo):
 
 weird_name("Bram")
 weird_name("San")
+weird_name("Wax")
+weird_name("Shaniqua")
